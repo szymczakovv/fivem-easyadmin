@@ -25,3 +25,14 @@ set ac_webhook "https://discordapp.com/api/webhooks/" # your webhook (AntyCheat)
 set ea_custombanlist "false" # if u dont know what are u doing dont edit it
 set ea_enableCallAdminCommand "false" # /calladmin <-- command
 set ea_enableReportCommand "false" # /report <-- command
+```
+<p></p>
+https://szymczakovv.pl/
+<p></p>
+https://twitch.tv/szymczakovv
+<p></p>
+https://instagram.com/szymczakovv/
+<p></p>
+https://steamcommunity.com/id/szymczakovv
+<p></p>
+https://discord.gg/wrSqK6k/
