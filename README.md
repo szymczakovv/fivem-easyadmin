@@ -15,6 +15,8 @@ https://gyazo.com/15a859c7d04d28e20da1dc4400393e35
 <p></p>
 https://gyazo.com/797da90bfc22eb9b592411883643f7f4
 
+
+Anti Cheat is in this script!
 ```
 Add to server.cfg:
 setr ea_LanguageName "pl" # Language only PL!!!!!!
