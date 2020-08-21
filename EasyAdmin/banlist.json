@@ -1,0 +1,130 @@
+[
+    {
+        "banid": 25,
+        "banner": "Ğ!ŻϻỖ! # ẸŻ ŴĮŇ",
+        "reason": "lol ( Gracz: .|. ), Zablokowany przez: Ğ!ŻϻỖ! # ẸŻ ŴĮŇ",
+        "identifiers": [
+            "steam:110000141b61137",
+            "license:79b2b09508e48e73e12b7f05fb72c84fcf8a2d15",
+            "ip:91.204.163.104"
+        ],
+        "expire": 10444633200
+    },
+    {
+        "banid": 26,
+        "banner": "Ğ!ŻϻỖ! # ẸŻ ŴĮŇ",
+        "reason": "Ta tez tak chce umiec ;D ( Gracz: Canstler ), Zablokowany przez: Ğ!ŻϻỖ! # ẸŻ ŴĮŇ",
+        "identifiers": [
+            "steam:110000112f77a8d",
+            "license:9666593ac40ac581d4ba20f9c7ae9c7567782ff9",
+            "xbl:2535440504820639",
+            "live:985154573203036",
+            "discord:329239215189786625",
+            "ip:85.221.149.211"
+        ],
+        "expire": 10444633200
+    },
+    {
+        "banid": 26,
+        "banner": "Ğ!ŻϻỖ! # ẸŻ ŴĮŇ",
+        "reason": "Ta tez tak chce umiec ;D ( Gracz: Canstler ), Zablokowany przez: Ğ!ŻϻỖ! # ẸŻ ŴĮŇ",
+        "identifiers": [
+            "steam:110000112f77a8d",
+            "license:9666593ac40ac581d4ba20f9c7ae9c7567782ff9",
+            "xbl:2535440504820639",
+            "live:985154573203036",
+            "discord:329239215189786625",
+            "ip:85.221.149.211"
+        ],
+        "expire": 10444633200
+    },
+    {
+        "banid": 28,
+        "banner": "Ğ!ŻϻỖ! # ẸŻ ŴĮŇ",
+        "reason": "Beczunia ( Gracz: FrankoRybka ), Zablokowany przez: Ğ!ŻϻỖ! # ẸŻ ŴĮŇ",
+        "identifiers": [
+            "steam:11000011cc657eb",
+            "license:47c75f7681cfdfa228c20ced5e107e4e2b4c9847",
+            "xbl:2535455075952153",
+            "live:1055518458087688",
+            "discord:489880323354525725",
+            "ip:89.72.253.205"
+        ],
+        "expire": 10444633200
+    },
+    {
+        "banid": 32,
+        "banner": "Szym80180",
+        "reason": "Cheaty ( Gracz: k1ol4ko bez kappy ), Zablokowany przez: Szym80180",
+        "identifiers": [
+            "steam:110000114646365",
+            "license:6a275129b2d3b859b072861a4778d04baed2a273",
+            "xbl:2535420297527148",
+            "live:914798010102458",
+            "discord:321266384858251264",
+            "ip:87.99.96.64"
+        ],
+        "expire": 10444633200
+    },
+    {
+        "banid": 43,
+        "banner": "Furman",
+        "reason": "CHEATY ( Gracz: Grzybusio casedrop.eu ), Zablokowany przez: Furman",
+        "identifiers": [
+            "steam:11000010cc90be5",
+            "license:5b0344e5edd752fe30c2e7dc6e960ef2727cb415",
+            "discord:298093206510239744",
+            "ip:83.29.249.34"
+        ],
+        "expire": 10444633200
+    },
+    {
+        "banid": 45,
+        "banner": "Szym80180",
+        "reason": "Cheaty ( Gracz: franekharczuk345 ), Zablokowany przez: Szym80180",
+        "identifiers": [
+            "steam:110000141a242a0",
+            "license:db39e7601e6ba855fee4711cdfeb26c99475abd7",
+            "live:1055519044372975",
+            "ip:95.49.153.220"
+        ],
+        "expire": 10444633200
+    },
+    {
+        "banid": 47,
+        "banner": "kapi2711",
+        "reason": "cheaty ( Gracz: 1 ), Zablokowany przez: kapi2711",
+        "identifiers": [
+            "steam:11000013f647d2f",
+            "license:5f4c4e31bf5d64eac0526c5d36be05576d77a67e",
+            "ip:5.172.236.53"
+        ],
+        "expire": 10444633200
+    },
+    {
+        "banid": 48,
+        "banner": "kapi2711",
+        "reason": "Cheaty ( Gracz: Ciasteczek ), Zablokowany przez: kapi2711",
+        "identifiers": [
+            "steam:1100001153fa604",
+            "license:cd611578ef5c4f5329fb154db925ca4958e26ec2",
+            "xbl:2535421574743854",
+            "live:914798514559533",
+            "discord:474156058181369866",
+            "ip:89.228.102.229"
+        ],
+        "expire": 10444633200
+    },
+    {
+        "banid": 54,
+        "banner": "Furman",
+        "reason": "CHEATY ( Gracz: Bober ), Zablokowany przez: Furman",
+        "identifiers": [
+            "steam:110000119f69a78",
+            "license:ae9f1b83c122dd51f5a6682278483862a34ea228",
+            "discord:413734267869200385",
+            "ip:37.47.227.16"
+        ],
+        "expire": 10444633200
+    }
+]

@@ -1,0 +1,22 @@
+[
+    [ "EasyAdmin", "General Settings" ],
+    [ "Language", "ea_LanguageName", "CV_STRING_R", "pl" ],
+    [ "Moderation Notification Webhook", "ea_moderationNotification", "CV_STRING", "https://discordapp.com/api/webhooks/710101656280367204/Fu1QlQjaajygFHbLtIAd2Kp4Xh_GOR0fDxkL3bt8CNNDKjkiPUM9DPg3Hsr54x65JmLU" ],
+    [ "Enable Debugging", "ea_enableDebugging", "CV_BOOL", false ],
+    [ "", "Menu Settings" ],
+    [ "Menu Button", "ea_MenuButton", "CV_INT_R", 289 ],
+    [ "Show All Buttons", "ea_alwaysShowButtons", "CV_BOOL", false ],
+    [ "", "Banlist Settings" ],
+    [ "Minimum Matching Identifiers", "ea_minIdentifierMatches", "CV_INT", 2, 1, 3 ],
+    [ "", "Command Settings" ],
+    [ "Enable calladmin command", "ea_enableCallAdminCommand", "CV_BOOL", false ],
+    [ "Enable report command", "ea_enableReportCommand", "CV_BOOL", false ],
+    [ "Default Minimum Reports", "ea_defaultMinReports", "CV_INT", 3 ],
+    [ "Minimum Report Modifier Enabled", "ea_MinReportModifierEnabled", "CV_BOOL", true ],
+    [ "Minimum Report Modifier Players", "ea_MinReportPlayers", "CV_INT", 12 ],
+    [ "Report Modifier", "ea_MinReportModifier", "CV_INT", 4 ],
+    [ "Report Ban Time (unix time)", "ea_ReportBanTime", "CV_INT", 86400 ],
+    [ "", "Screenshot Settings" ],
+    [ "Screenshot Image Uploader", "ea_screenshoturl", "CV_STRING", "https://wew.wtf/upload.php" ],
+    [ "Screenshot Field", "ea_screenshotfield", "CV_STRING", "files[]" ]
+]
