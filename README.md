@@ -1,7 +1,8 @@
 EasyAdmin (Edited by Szymczakovv)
 <p></p>
-Credits to: Blumlaut (https://forum.cfx.re/t/release-easyadmin-its-as-easy-as-it-gets/42245)
+Credits to: @Blumlaut (https://forum.cfx.re/t/release-easyadmin-its-as-easy-as-it-gets/42245)
 <p></p>
+<b>Only PL VERSION! (Sorry BibleThump) <b>
 
 Images:
 <p></p>
