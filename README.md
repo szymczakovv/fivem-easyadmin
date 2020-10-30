@@ -23,14 +23,12 @@ https://gyazo.com/15a859c7d04d28e20da1dc4400393e35
 https://gyazo.com/797da90bfc22eb9b592411883643f7f4
 
 
-Anti Cheat is in this script!
 ```
 Add to server.cfg:
 setr ea_LanguageName "pl" # Language only PL!!!!!!
 setr ea_MenuButton "10" # Button to open menu
 setr ea_alwaysShowButtons "false" # if u dont know what are u doing dont edit it
 set ea_moderationNotification "https://discordapp.com/api/webhooks/" # your webhook (Admin Notifications)
-set ac_webhook "https://discordapp.com/api/webhooks/" # your webhook (AntyCheat) 
 set ea_custombanlist "false" # if u dont know what are u doing dont edit it
 set ea_enableCallAdminCommand "false" # /calladmin <-- command
 set ea_enableReportCommand "false" # /report <-- command
