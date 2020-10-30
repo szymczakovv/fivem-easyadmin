@@ -7,7 +7,6 @@ server_scripts {
 	"util_shared.lua",
 	"admin_server.lua",
 	"webadmin_server.lua",
-	"ac_s.lua",
 }
 
 client_scripts {
@@ -15,7 +14,6 @@ client_scripts {
 	"util_shared.lua",
 	"admin_client.lua",
 	"gui_c.lua",
-	"ac_c.lua",
 }
 
 convar_json "settings.json"
