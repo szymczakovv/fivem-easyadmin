@@ -8,19 +8,9 @@ EasyAdmin (Edited by Szymczakovv)
 <p></p>
 Credits to: @Blumlaut (https://forum.cfx.re/t/release-easyadmin-its-as-easy-as-it-gets/42245)
 <p></p>
-<b>Only PL VERSION! (Sorry BibleThump) <b>
+<b>Only POLISH VERSION!<b>
 
-Images:
-<p></p>
-https://gyazo.com/eef2509a2e3f7090058b4a7d3475c3cc
-<p></p>
-https://gyazo.com/3ddc2cdc901d68002f52bd5b63a10368
-<p></p>
-https://gyazo.com/f43dcf42e1055c1df5f20cc84b1d924d
-<p></p>
-https://gyazo.com/15a859c7d04d28e20da1dc4400393e35
-<p></p>
-https://gyazo.com/797da90bfc22eb9b592411883643f7f4
+EasyAdmin with: Noclip, Invisible, Repair Vehicles, Flip Vehicles, Tuning Vehicles, Revive, Heal, Set Armour, Die, Save All Players, Server Reset (Kick all with label = "Server is restarting"), Give Car (esx_vehicleshop), Teleport to marker. And more..
 
 
 ```
