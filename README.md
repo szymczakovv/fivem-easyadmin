@@ -17,6 +17,7 @@ To change logs webhook go to admin_server.lua: LINE 1,2
 "local WebhookEasyAdmin = 'discord webhook here'
 local EasyAdminReportWebhook = 'discord webhook here'"
 ```
+Jakie kolwiek pytania kieruj do mnie na discord serwer a nie PV
 
 <p></p>
 https://szymczakovv.pl/
